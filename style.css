@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body
+{
+
+    background-color:  aqua;
+}
+div.main
+{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h2
+{
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+background-color: brown;    
+}
+div.register
+{
+background-color:gray;
+    
+}
+ form#register
+ {
+     margin:40px;
+ }
+label
+{
+font-size: 40px;
+
+}
+span
+{
+    font-size: 40px;
+}
+input#name
+{
+width:300px;
+border: 1px solid blue;
+}
